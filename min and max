@@ -1,0 +1,7 @@
+List_A = [5, 9, 13]
+List_B = [7,-3 ,11]
+Combined_list = List_A + List_B
+maximum_value = max(Combined_list)
+minimum_value = min(Combined_list)
+print("Maximum Value:", maximum_value)
+print("Minimum Value:", minimum_value)
